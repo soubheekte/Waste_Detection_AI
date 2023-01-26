@@ -1,6 +1,6 @@
 # Waste Segregation Model AI
 
-Problem Statement:
+## Problem Statement:
 
 Manual waste segregation and management is a tedious and time-consuming process that often leads to errors and inefficiencies. This results in a significant amount of recyclable material being sent to landfills and a lack of proper disposal of hazardous waste, leading to environmental and health hazards. Furthermore, the increasing population and urbanization are putting a strain on the existing waste management infrastructure, making it necessary to find new and innovative solutions to the problem.
 
